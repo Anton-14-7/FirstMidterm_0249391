@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  body{
+    background-color: white;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Open Sans', sans-serif;
+    max-width: 1440px;
+}
+
+.Box1{
+  width: 1440px;
+}
+
+.email{
+  width: 400px;
+  height: 40px;
+  position: relative;
+  border-style: solid;
+  border-width: 0.01cm;
+  border-color: #BFBFBF;
+  border-radius: 5px;
+  color: #BFBFBF;
+}
+
+.start{
+  width: 220px;
+  height: 40px;
+  position: relative;
+  left: 440px;
+  bottom: 40px;
+  background-color: #3065F8;
+  position: relative;
+  border-style: solid;
+  border-width: 0.01cm;
+  border-color: #3065F8;
+  border-radius: 5px;
+  color: white;
+}
+
+.start2{
+  width: 220px;
+  height: 40px;
+  position: relative;
+  left: 700px;
+  bottom: 45px;
+  background-color: #3065F8;
+  position: relative;
+  border-style: solid;
+  border-width: 0.01cm;
+  border-color: #3065F8;
+  border-radius: 5px;
+  color: white;
+}
+
+.email2{
+  width: 400px;
+  height: 40px;
+  position: relative;
+  left: 700px;
+  bottom: 142px;
+  border-style: solid;
+  border-width: 0.01cm;
+  border-color: #BFBFBF;
+  background-color: white;
+  border-radius: 5px;
+  color:#BFBFBF;
+}
+
+.Options{
+  text-align: right;
+  margin: 20px 80px 0px 0px;
+}
+
+.Box2{
+  background-color: #F6F6FE;
+  height: 550px;
+}
+
+.cyanbox{
+  position: relative;
+  width: 220px;
+  height: 50px;
+  border-bottom: #3C9F8F;
+  border-width: 1cm;
+  color: #3C9F8F;
+}
+
+.flecha{
+  position:absolute;
+  left: 60%;
+}
+
+.Box3{
+  width: 446px;
+  height: 230px;
+  position: relative;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.test{
+  position:relative;
+}
+
+.avatar img{
+  position: absolute;
+  border-radius: 60%;
+  left: 2px;
+  top: 12px;
+}
+
+.Box4{
+  background-color: #585989;
+  height: 250px;
+  color: white;
+}
+
+.Box5{
+  background-color: #070439;
+  color: white;
+  height: 600px;
+}
+
+
+.PE{
+  position:relative;
+  width: 210px;
+  height: 50px;
+
+}
+
+.iconP{
+  position: absolute;
+  left: 1px;
+  top: 1cm;
+}
+
+.iconE{
+  position: absolute;
+  left: 1px;
+  top: 2cm;
+}
+
+
+.Op1{
+  position: relative;
+  bottom: 28px;
+  left: 400px;
+}
+
+.Op2{
+  position: relative;
+  bottom: 180px;
+  left: 700px;
+}
+
+svg{
+  height: 400px;
+  left: 300px;
+}
+
+.Photo1{
+  position: relative;
+  left: 500px;
+  bottom: 419px;
+}
+
+.Photo2{
+  position: relative;
+  left: 500px;
+  bottom: 340px;
+}
